@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. **Run the script**:
 
 ```bash
-python3 image_encryption_tool.py
+python3 task2.py
 ```
 
 2. **Select an option**:
